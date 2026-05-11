@@ -26,29 +26,7 @@
 
 ### 🛠 Стек технологий
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="40" alt="Python" /><br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="40" alt="FastAPI" /><br />FastAPI
-    </td>
-    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="40" alt="Redis" /><br />Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="40" alt="C++" /><br />C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="40" alt="React" /><br />React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev" width="40" alt="Docker" /><br />Docker
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi,postgres,redis,cpp,react,docker)](https://skillicons.dev)
 
 <br />
 
