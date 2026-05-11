@@ -1,33 +1,72 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  <h1>Привет, я Иван 👋</h1>
+  <p><b>Python Backend Developer | Telegram Bot Expert | Tech Enthusiast</b></p>
 
-
-Привет, меня зовут Иван, я студент. Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+  <p>
+    <a href="https://t.me/psych0ce00">
+      <img src="https://shields.io" alt="Telegram" />
+    </a>
+    <a href="https://kwork.ru/ivan_chernikov">
+      <img src="https://shields.io" alt="Kwork" />
+    </a>
+  </p>
+</div>
 
 <br />
-  
-**Connect with me:**  
 
-<a href="https://t.me/psych0ce00">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a> ( <- кликабельно)
+### 👨‍💻 Обо мне
+Я студент и начинающий ИТ-специалист. Основной фокус — создание высокопроизводительных **Backend-систем** и сложных архитектур для **Telegram-ботов**. Люблю асинхронность, чистый код и когда всё работает быстро.
+
+*   🐍 Основной стек: **Python (FastAPI, Flask, Aiogram)**.
+*   🗄 Работаю с базами данных: **PostgreSQL (SQLAlchemy, Alembic)**, SQLite и Redis.
+*   ⚙️ Знаю **C++** на базовом уровне (алгоритмы, основы ООП).
+*   🌐 Могу подхватить **Frontend** задачи (React, Bootstrap), чтобы собрать Fullstack-проект.
 
 <br />
 
-<a href="https://kwork.ru/user/ivan_chinazes"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fplay-lh.googleusercontent.com%2FvYFpgwJDzugewVqpeg9M3_fJxdCOPkpfihv8GueEpYlHQ-9-liiTefw8N-pfy5DGRFM&f=1&nofb=1&ipt=20e928f89ed419ade8ae8aeb791e2aa493bb30434d1718db6050b1b199a68e7c&ipo=images" width="100px" height="100px"></a> ( <- кликабельно)
+### 🛠 Стек технологий
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" alt="Python" /><br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" alt="FastAPI" /><br />FastAPI
+    </td>
+    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" alt="Redis" /><br />Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" alt="C++" /><br />C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" alt="React" /><br />React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev" width="40" alt="Docker" /><br />Docker
+    </td>
+  </tr>
+</table>
 
 <br />
-  
-**Languages and Tools:**  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+### ⚡ Чем я занимаюсь
+- [x] **API Development**: Проектирование REST API с JWT-авторизацией и интеграцией различных систем.
+- [x] **Telegram Bots**: Создание многофункциональных ботов на `aiogram 3.x` (магазины, рассылки, админки).
+- [x] **Server Management**: Деплой приложений, работа с Docker и настройка асинхронных окружений.
+- [x] **Web Dev**: Небольшие SPA на React для управления бэкенд-логикой.
 
+<br />
 
-⚡️ **В основном я занимаюсь:**
-<!-- TODO-IST:START -->
-* [x] Разработкой телеграмм чат-ботов любой сложности
-* [x] Разработкой веб-страниц и веб-приложений
-* [x] Администрированием серверов 
-<!-- TODO-IST:END -->
+### 📈 Статистика GitHub
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
+<hr />
+
+<div align="center">
+  <p>Всегда открыт для интересных задач и предложений! 🚀</p>
+</div>
