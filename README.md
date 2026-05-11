@@ -1,15 +1,6 @@
 <div align="center">
   <h1>Привет, я Иван 👋</h1>
   <p><b>Python Backend Developer | Telegram Bot Expert | Tech Enthusiast</b></p>
-
-  <p>
-    <a href="https://t.me/psych0ce00">
-      <img src="https://shields.io" alt="Telegram" />
-    </a>
-    <a href="https://kwork.ru/ivan_chernikov">
-      <img src="https://shields.io" alt="Kwork" />
-    </a>
-  </p>
 </div>
 
 <br />
@@ -39,9 +30,9 @@
 <br />
 
 ### 📈 Статистика GitHub
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+
+[![Anurag's GitHub stats](https://github-stats-psiyavushs-projects.vercel.app/api?username=ifwebeingreal)](https://github.com/psiyavush/github-stats)
+
 
 <hr />
 
