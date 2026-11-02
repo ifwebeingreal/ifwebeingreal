@@ -1,83 +1,93 @@
 <div align="center">
-  <h1>Привет, я Иван 👋</h1>
-  <h3>Python Backend Engineer</h3>
 
-  <p>
-    Backend Development • Distributed Systems • AI / LLM • Async Python
-  </p>
+# Ivan | Python Backend Engineer
 
-  <p>
-    <a href="https://t.me/psyc0ce00">Telegram</a>
-    •
-    <a href="mailto:ivanonline222@gmail.com">Email</a>
-  </p>
+**Backend Development · Distributed Systems · Event-Driven Architecture · AI / LLM**
+
+[Telegram](https://t.me/psyc0ce00) · [Email](mailto:ivanonline222@gmail.com)
+
 </div>
 
 ---
 
-## 👨‍💻 Обо мне
+## About
 
-Python Backend-разработчик с коммерческим опытом разработки backend-сервисов,
-API, интеграций и систем автоматизации.
+Python Backend Engineer с опытом разработки и развития крупных продуктовых
+систем, включая проекты в BigTech-среде.
 
-За плечами — более **120 коммерческих проектов**: от интеграционных сервисов
-до асинхронных backend-систем с очередями, фоновой обработкой,
-платежами и внешними API.
+Специализируюсь на проектировании backend-сервисов, распределённых систем
+и интеграций. Работал с микросервисной и event-driven архитектурой,
+асинхронной обработкой, брокерами сообщений, фоновыми задачами
+и взаимодействием между внутренними и внешними сервисами.
 
-Основной фокус — проектирование надёжного backend:
-**асинхронность, микросервисная архитектура, event-driven подход,
-отказоустойчивые интеграции и работа с данными.**
+Основной фокус — **Python Backend & Distributed Systems**:
+проектирование API и сервисных границ, PostgreSQL, Redis, RabbitMQ/Kafka,
+конкурентная и асинхронная обработка, надёжность интеграций и корректное
+поведение системы при частичных сбоях.
 
-Также работаю с **AI / LLM-системами**: RAG, embeddings, semantic search,
-tool calling и интеграция AI-агентов с backend-сервисами.
+Имею практический опыт разработки **AI / LLM-систем**:
+RAG, embeddings, semantic search, tool calling и интеграция LLM
+с backend-сервисами и внутренними источниками данных.
+
+Помимо работы над крупными продуктами, имею опыт самостоятельной
+коммерческой разработки — от проектирования архитектуры и модели данных
+до deployment и дальнейшей поддержки сервисов.
 
 <br>
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
-
-`Python` • `FastAPI` • `Django` • `DRF` • `SQLAlchemy` • `Alembic` • `Pydantic`
+`Python` · `FastAPI` · `Django` · `Django REST Framework` · `SQLAlchemy` · `Alembic` · `Pydantic`
 
 ### Databases & Storage
+`PostgreSQL` · `Redis` · `SQLite`
 
-`PostgreSQL` • `Redis` • `SQLite`
-
-### Messaging & Async
-
-`RabbitMQ` • `Celery` • `Kafka` • `asyncio`
+### Messaging & Asynchronous Processing
+`RabbitMQ` · `Kafka` · `Celery` · `asyncio`
 
 ### AI / LLM
+`LangChain` · `RAG` · `Embeddings` · `Vector Search` · `Tool Calling` · `Ollama`
 
-`LangChain` • `RAG` • `Embeddings` • `Vector Search` • `Tool Calling` • `Ollama`
-
-### Infrastructure
-
-`Docker` • `Docker Compose` • `Linux` • `Git` • `CI/CD`
+### Infrastructure & Engineering
+`Docker` · `Docker Compose` · `Linux` · `Git` · `CI/CD` · `pytest`
 
 ### Frontend
-
-`React` • `TypeScript` • `Vite`
+`React` · `TypeScript` · `Vite`
 
 <br>
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,rabbitmq,kafka,docker,linux,git,react,ts)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,rabbitmq,kafka,docker,linux,git,react,ts)](https://skillicons.dev)
 
 </div>
 
 <br>
 
-## ⚙️ Engineering
+## Engineering Focus
 
-- ⚡ **Backend Architecture** — проектирование REST API, сервисов и взаимодействия между компонентами.
-- 🔄 **Async & Event-Driven Systems** — asyncio, очереди сообщений, background workers и асинхронные интеграции.
-- 🛡️ **Reliable Integrations** — idempotency, retry/backoff, timeouts и обработка частичных сбоев.
-- 🗄️ **Databases** — проектирование схем PostgreSQL, миграции, транзакции и оптимизация SQL-запросов.
-- 🔌 **External APIs** — платёжные системы, Telegram API и интеграции со сторонними сервисами.
-- 🤖 **AI Systems** — RAG pipelines, semantic search, embeddings и tool/function calling.
-- 🐳 **Infrastructure** — контейнеризация, CI/CD, Linux-серверы и deployment приложений.
-- 🧪 **Testing** — pytest, тестирование бизнес-логики и интеграций.
+- **Backend Architecture** — проектирование REST API, сервисных границ и взаимодействия между компонентами распределённых систем.
+- **Distributed Systems** — event-driven взаимодействие, очереди сообщений, фоновые процессы и межсервисные интеграции.
+- **Async Python** — разработка I/O-bound сервисов и конкурентная обработка задач с использованием `asyncio`.
+- **Reliability** — idempotency, retry/backoff, timeouts, обработка ошибок и частичных отказов зависимых сервисов.
+- **Data Layer** — PostgreSQL, проектирование схем данных, транзакции, миграции и оптимизация SQL-запросов.
+- **Messaging** — RabbitMQ и Kafka, producers/consumers, очереди, обработка событий и фоновые workers.
+- **AI Engineering** — RAG pipelines, embeddings, semantic search, retrieval и tool/function calling.
+- **Integrations** — проектирование интеграций с внутренними сервисами, внешними API и платёжными системами.
+- **Infrastructure** — Docker, Linux, CI/CD и полный цикл подготовки backend-сервисов к deployment.
+- **Quality** — pytest, типизация, тестирование бизнес-логики и интеграционных сценариев.
 
 <br>
+
+---
+
+<div align="center">
+
+### Open to Python Backend & AI Engineering opportunities
+
+**Python · Distributed Systems · Backend Architecture · AI / LLM**
+
+[Telegram](https://t.me/psyc0ce00) · [ivanonline222@gmail.com](mailto:ivanonline222@gmail.com)
+
+</div>
